@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>凝心聚力，质启新章｜新东方北重斩获福田海外事业部“品质标杆奖”</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%231E6B3A'/%3E%3Ctext x='32' y='44' font-size='36' text-anchor='middle' fill='%23fff' font-family='sans-serif' font-weight='bold'%3E新%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="https://miaoda.feishu.cn/fonts/css2?family=Noto+Sans+SC:wght@400;500;700;900&display=swap">
+<style>
+  :root{
+    --bg:#ECF5EA;
+    --card:#FFFFFF;
+    --ink:#2B3A2E;
+    --ink-soft:#55625A;
+    --accent:#1E6B3A;
+    --line:#DCE8D9;
+    --cap:#8A938C;
+  }
+  *{margin:0;padding:0;box-sizing:border-box;}
+  body{
+    background:var(--bg);
+    font-family:"Noto Sans SC","PingFang SC","Microsoft YaHei",system-ui,sans-serif;
+    color:var(--ink);
+    line-height:1.9;
+    -webkit-font-smoothing:antialiased;
+  }
+  .page{
+    max-width:750px;
+    margin:0 auto;
+    padding:28px 16px 40px;
+  }
+  .card{
+    background:var(--card);
+    border-radius:14px;
+    padding:40px 38px 34px;
+    box-shadow:0 2px 14px rgba(30,60,40,.06);
+  }
+  .brand{
+    text-align:center;
+    font-size:13px;
+    letter-spacing:.35em;
+    color:var(--accent);
+    font-weight:500;
+    margin-bottom:18px;
+  }
+  h1{
+    font-size:27px;
+    font-weight:900;
+    line-height:1.5;
+    text-align:center;
+    color:var(--ink);
+    margin-bottom:22px;
+  }
+  .divider{
+    width:56px;height:3px;
+    background:var(--accent);
+    border-radius:2px;
+    margin:0 auto 26px;
+  }
+  p{
+    font-size:16px;
+    color:var(--ink);
+    text-align:justify;
+    text-justify:inter-ideograph;
+    margin-bottom:18px;
+  }
+  figure{
+    margin:26px 0 8px;
+  }
+  figure img{
+    width:100%;
+    height:auto;
+    display:block;
+    border-radius:10px;
+  }
+  figcaption{
+    text-align:center;
+    font-size:13px;
+    color:var(--cap);
+    margin-top:10px;
+  }
+  .footer{
+    margin-top:34px;
+    padding-top:20px;
+    border-top:1px dashed var(--line);
+    text-align:center;
+    font-size:14px;
+    color:var(--ink-soft);
+    letter-spacing:.08em;
+  }
+  .footer .name{font-weight:700;color:var(--ink);margin-bottom:4px;}
+
+  @media (max-width:520px){
+    .page{padding:14px 10px 28px;}
+    .card{padding:30px 22px 26px;border-radius:10px;}
+    h1{font-size:22px;}
+    p{font-size:15.5px;}
+    .brand{letter-spacing:.22em;font-size:13px;}
+  }
+</style>
+</head>
+<body>
+  <div class="page">
+    <div class="card">
+
+      <div class="brand">诸城市新东方北重机械制造有限公司</div>
+      <h1>凝心聚力，质启新章｜新东方北重斩获福田海外事业部“品质标杆奖”</h1>
+      <div class="divider"></div>
+
+      <p>近日，诸城市新东方北重机械制造有限公司受邀参加福田汽车海外事业部上装业务供应商座谈会。会上，公司凭借稳定可靠的产品品质、严谨完善的全流程质量管控体系，荣获品质标杆奖，总经理王建亭代表公司上台领奖。</p>
+
+      <figure>
+        <img src="https://media.doubao.com/space/api/box/stream/download/all_by_mount_point/G9YcbUdvqoYiZIxrduTceuIin1b" alt="座谈会现场，荣誉奖杯整齐陈列">
+        <figcaption>图1 座谈会现场，荣誉奖杯整齐陈列</figcaption>
+      </figure>
+
+      <p>这份沉甸甸的荣誉，是福田汽车对新东方北重产品实力、交付保障与海外配套服务的高度肯定，更是全体新东方北重一线员工、技术团队、质量管理人员同心坚守、精益求精换来的成果。从下料折弯、焊接成型，到涂装防腐、出厂检验，每一台发往海外的货箱产品，都凝聚着各岗位员工的责任与匠心。</p>
+
+      <figure>
+        <img src="https://media.doubao.com/space/api/box/stream/download/all_by_mount_point/YF7AbUzIBoS3RcxcZrRcGcRanih" alt="公司总经理王建亭代表公司上台领取品质标杆奖">
+        <figcaption>图2 公司总经理王建亭代表公司上台领取“品质标杆奖”</figcaption>
+      </figure>
+
+      <p>面向海外复杂多变的工况环境、严苛的国际质量验收标准，公司持续强化全员质量意识，把质量责任落实到每一道工序、每一位员工。生产班组严把过程自检关口，技术团队持续开展工艺优化攻关，质量部门对产品细节逐项核查，针对市场反馈问题快速组织复盘分析、闭环改进。面对焊接质量、产品结构优化、防腐等各类质量课题，各岗位员工协同研讨、持续改善，不断优化焊接工艺、耐磨防腐方案，不放过任何一处微小缺陷，全力保障出口产品的可靠性，守护中国制造的海外口碑。</p>
+
+      <p>荣誉是认可，更是前行的号角。未来，新东方北重全体职工将继续保持严谨务实的质量理念，持续夯实质量管理体系，深耕工艺提升，打磨优质产品。公司将继续与福田汽车深化战略合作，同心协力开拓海外市场，以过硬品质为根基，携手奔赴高质量发展新征程。</p>
+
+      <div class="footer">
+        <div class="name">诸城市新东方北重机械制造有限公司</div>
+        <div>2026年10月</div>
+      </div>
+
+    </div>
+  </div>
+</body>
+</html>
